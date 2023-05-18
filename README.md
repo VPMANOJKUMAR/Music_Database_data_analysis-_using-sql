@@ -5,3 +5,5 @@ This Project is made by using  **SQL** to analyze and extract insights from a mu
 
 ## Data Sources:
 <a href="https://github.com/VPMANOJKUMAR/Music_Database_data_analysis-_using-sql/blob/main/music_database.sql">Music Database</a>
+## Tool Used:
+![PostgreSQL](https://keytosmart.com/wp-content/uploads/2019/11/postgresql-logo.png)
