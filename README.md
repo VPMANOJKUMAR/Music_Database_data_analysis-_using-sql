@@ -27,7 +27,8 @@ It consist of following tables:
 **PostgreSQL** is a powerful, open source **object-relational database system** that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads.
 
 ## Schema Diagram: 
-<a href="https://github.com/VPMANOJKUMAR/Music_Database_data_analysis-_using-sql/blob/main/schema_diagram.png">Music Database Schema</a>
+
+<img width="594" alt="schema_diagram" src="https://github.com/VPMANOJKUMAR/Music_Database_data_analysis-_using-sql/assets/124855537/aacc8e29-19be-42bc-8984-4e4743339a63">
 
 ## Questions solved:
 From  **Music Database** easy level to advance level questions are solved by using the **SQL**.  
