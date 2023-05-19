@@ -53,7 +53,9 @@ Q9: Find how much amount spent by each customer on artists? Write a query to ret
 
 Q10: we want to find out most popular music Genre for each country. We determine the most popular genre as the genre as the genre with the highest amount of purchases. Write a query that returns each country along with the top Genre. For countries where the maximum number of purchases is shared return all Genres. 
 
-## Project Insight:  
+## Project Insight: 
+<a href="https://github.com/VPMANOJKUMAR/Music_Database_data_analysis-_using-sql/blob/main/Music%20Database%20data%20analysis.sql">Music Database Data Analysis</a>
+
 + Based on the job title senior most employee is **Madan Mohan**  
 + The countries which has most invoices are **USA as 131, Canada as 76 , Brazil as 61** e.t.c 
 +  Top 3 values of total invoice are **23.759, 19.8 and 19.8** 
